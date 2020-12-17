@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to webpage of the Untame Workshop
 
 You can use the [editor on GitHub](https://github.com/bergel/untame.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
